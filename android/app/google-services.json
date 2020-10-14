@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1095942010711",
+    "firebase_url": "https://doggr2-5cd7d.firebaseio.com",
+    "project_id": "doggr2-5cd7d",
+    "storage_bucket": "doggr2-5cd7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095942010711:android:97872c733161a7de943012",
+        "android_client_info": {
+          "package_name": "com.example.doggr2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095942010711-m6n66prptp6tcpqlv0g27oeqag4r6q64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAx7WGetHgcD693_IGBy1LH2RlT9PT5fE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095942010711-m6n66prptp6tcpqlv0g27oeqag4r6q64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
